@@ -34,7 +34,12 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is your basic building blocks, like basic math 1 + 1 = 2 or like word families in language lap,cap,tap or bat,cat, sat
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display block takes up the entire space and allows for no room for anything else in that space
+display inline allows other elements within the same line
 
 3. What are the 4 areas of the box model?
 
