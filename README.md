@@ -38,14 +38,23 @@ Semantic HTML is your basic building blocks, like basic math 1 + 1 = 2 or like w
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-display block takes up the entire space and allows for no room for anything else in that space
-display inline allows other elements within the same line
+display block takes up the entire space of the parent element
+display inline allows other elements within the same line or it wraps content
+display block allows inline and block elements to be nested within
+display inline can not nest block elements
+
 
 3. What are the 4 areas of the box model?
 
+content, padding, margin, border
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+the cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable to a team of developers to allow collaboration, innovation, and the oopsie feature of being able to go back in time and start over if a mess has been made of the code. There are many ways to solve or create code and by using git to collaborate and change other developers code creates an environment to learn, to reinforce learning and to grow as a developer.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
